@@ -1,4 +1,3 @@
-Files related to lego gearbox project. 
+## Files related to lego gearbox project. 
 
-TODO: 
-- add photos to instructions
+![lego-gearbox](lego_instructions/gearbox.png)
